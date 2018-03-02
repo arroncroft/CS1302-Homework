@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;hw4_ACroft/src/prob3&apos;&#x0D;&#x0A;- Original project: &apos;hw4_ACroft&apos;&#x0D;&#x0A;- Destination element: &apos;hw4_ACroft/src/prob3&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     prob2.RegularAccount.java&#x0D;&#x0A;     prob2.Account.java&#x0D;&#x0A;     prob2.PremiumAccount.java" description="Copy compilation units" destination="/src&lt;prob3" element1="/src&lt;prob2{RegularAccount.java" element2="/src&lt;prob2{Account.java" element3="/src&lt;prob2{PremiumAccount.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1455851074950" units="3" version="1.0"/>
+</session>

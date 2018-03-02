@@ -1,0 +1,12 @@
+INDEX VERSION 1.127+C:\Users\Croft\Documents\School\2016 - Spring\CS 1302\cs1302_homework\.metadata\.plugins\org.eclipse.jdt.core
+1619115927.index
+2888548105.index
+3993942132.index
+581220586.index
+2446798781.index
+677491187.index
+950057587.index
+1782888078.index
+4047610719.index
+2800662032.index
+3838554477.index

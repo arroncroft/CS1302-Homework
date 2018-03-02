@@ -1,0 +1,27 @@
+package prob1;
+import java.util.Scanner;
+
+public class MessageParser {
+	private static Scanner scan = new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		System.out.println("Enter a string.");
+		String message = scan.nextLine();
+		message(message);
+	}
+	
+	private static String message(String str){
+		int D;
+		String message = null;
+		for (int i=0;i<str.length()-1;i++){
+			if(str.charAt(i)=='#')
+				D = Integer.parseInt(str,str.charAt(i+1));
+				for(int j=0;j<D;j++){
+					
+				}
+				break;
+		}
+		
+		return message;
+	}
+}

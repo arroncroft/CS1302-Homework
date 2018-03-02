@@ -1,0 +1,43 @@
+//Name:	Arron Croft
+//ID:	870402435
+//Due:	1/27/16
+//CS 1302-A Homework 1
+
+package prob2;
+
+import java.util.Scanner;
+
+public class PasswordChecker {
+	//variables
+	private static Scanner scan = new Scanner(System.in);
+
+	//main
+	public static void main(String[] args) {
+		System.out.print("Enter a password:\t");
+		String password = scan.nextLine();
+	}
+
+	//isLevel1: accepts a String and returns true or
+	//	false, depending on whether it's a level one
+	//  password or not.
+	private boolean isLevel1(String password){
+		boolean isLevel1 = false;
+		return isLevel1;
+	}
+
+	//isLevel2: accepts a String and returns true or
+	//	false, depending on whether it's a level two
+	//  password or not.
+	private boolean isLevel2 (String password){
+		boolean isLevel2 = false;
+		return isLevel2;
+	}
+
+	//passwordLevel: accepts a String and returns an
+	//	integer describing the level of the
+	//	password.
+	private int passwordLevel (String password){
+		int passwordLevel = 0;
+		return passwordLevel;
+	}
+}

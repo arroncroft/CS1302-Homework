@@ -1,0 +1,14 @@
+//Name:	Arron Croft
+//ID:	870402435
+//Due:	1/27/16
+//CS 1302-A Homework 1
+
+package prob3;
+
+public class WordReverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+}

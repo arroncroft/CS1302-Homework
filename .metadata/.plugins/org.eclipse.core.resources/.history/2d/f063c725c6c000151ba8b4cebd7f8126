@@ -1,0 +1,36 @@
+//Name:	Arron Croft
+//ID:	870402435
+//Due:	1/27/16
+//CS 1302-A Homework 1
+
+package prob1;
+import java.util.Scanner;
+
+public class MessageParser {
+	//variables
+	private static Scanner scan = new Scanner(System.in);
+
+	//main
+	public static void main(String[] args) {
+		System.out.print("Enter a string:\t");
+		String message = scan.nextLine();
+		message(message);
+	}
+
+	//message: asks for String and returns a substring
+	//	within it, provided the char '#' followed by
+	//	an int which is the number of characters in
+	//	the substring.
+	private static String message(String str){
+		int D = 0;
+		String message = null;
+		for (int i=0;i<str.length()-1;i++){
+			if(str.charAt(i)=='#')
+				D = Integer.parseInt(str,str.charAt(i+1));
+				for(int j=0;j<D;j++){
+
+				}
+		}
+		return message;
+	}
+}
